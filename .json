@@ -1,0 +1,49 @@
+{
+  "code": "111111",
+  "msg": "success",
+  "data": {
+    "id": 151517,
+    "userId": 8051,
+    "thematicActivityId": 22,
+    "startTime": "2022-04-19 15:00:00",
+    "endTime": "2022-04-20 14:00:00",
+    "metaProductId": 9638,
+    "mateProductName": "勇敢的太空人之红骑士 #0006",
+    "image": "https://mlfile.miliantec.cn/app/2022/04/19/368689d9-69a8-4971-9354-de464ae38c97.jpg",
+    "quantity": 20,
+    "quantityRemain": 0,
+    "realQuantityRemain": 0,
+    "quantityFreeze": 0,
+    "metaProductQuantity": 20,
+    "price": 268.00,
+    "albumId": 17690,
+    "description": "勇敢的太空人系列是由一群航天工程师组成的团队亲手打造的，我们希望通过这套藏品唤起大家对航天的热情！",
+    "story": "这是一群勇敢的太空人，他/她们代表着太阳系八大行星，探索了宇宙中的十二星座，并留下了合影。",
+    "feature": "1. 每个太空人都有着独一无二的基因组合；\n2. 每个太空人都有一个对应的星座；\n3. 每个太空人都有一个对应的太阳系行星；\n4. 后续团队将以太空人为核心不断为其赋予能量。",
+    "contractAddress": "0xF36E7cC651075A727426E83B7e11299436fD2112",
+    "contractType": "ERC-1155",
+    "state": 1,
+    "isSelf": false,
+    "type": 1,
+    "createUserMetaVO": {
+      "userId": 8051,
+      "nickName": "早鸟部落（北京）科技有限公司",
+      "duAddress": "0xcb4a0b847211c16c963dc5d4e24e7366cdbfc77b",
+      "avatar": "https://mlfile.miliantec.cn/app/2022/01/30/9fb07bef-7326-48cc-9093-b36ca02f202b.png",
+      "accountAddress": "0xcb4a0b847211c16c963dc5d4e24e7366cdbfc77b"
+    },
+    "userMetaVO": {
+      "userId": 8051,
+      "nickName": "早鸟部落（北京）科技有限公司",
+      "duAddress": "0xcb4a0b847211c16c963dc5d4e24e7366cdbfc77b",
+      "avatar": "https://mlfile.miliantec.cn/app/2022/01/30/9fb07bef-7326-48cc-9093-b36ca02f202b.png",
+      "accountAddress": "0xcb4a0b847211c16c963dc5d4e24e7366cdbfc77b"
+    },
+    "tokenId": "22637",
+    "albumName": "《勇敢的太空人》 第四批",
+    "shareProductUrl": "https://www.caofange.com/shopDetail?id=151517",
+    "timeState": 2,
+    "buyState": 1
+  },
+  "success": true
+}
