@@ -2,17 +2,22 @@ const express = require('express')
 const axios = require('axios')
 const app = express()
 const circularJson = require('circular-json')
-const { proxyPort } = require('./tt.config.js')
-const port = proxyPort
+const port = '2451'
+
+
+
+// http.listen(proxyPort, () => {
+//   console.log(`Proxy server listening on port ${proxyPort}`)
+// })
 
 
 app.use(express.json()) // for parsing application/json
 app.use(express.urlencoded({ extended: false })) // for parsing application/x-www-form-urlencoded
 
-// app.get('/', (req, res) => {
+// // app.get('/', (req, res) => {
 
-//   res.json({req, res})
-// })
+// //   res.json({req, res})
+// // })
 
 
 app.post('/', function (req, res) {

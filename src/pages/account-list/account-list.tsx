@@ -3,10 +3,11 @@ import TextArea from 'antd/lib/input/TextArea'
 import React, { useEffect, useRef, useState } from 'react'
 import './account-list.less'
 import axios from 'axios'
-import { time } from 'console'
+
 
 //代理网址 'http://localhost:2451'
-const proxyUrl = 'http://localhost:2451'
+const port = '2451'
+const proxyUrl = `http://localhost:${port}`
 
 //初始区间值
 const defaultDrawIntervalTime = {
